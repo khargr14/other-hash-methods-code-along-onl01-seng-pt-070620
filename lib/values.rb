@@ -11,5 +11,5 @@ require 'pry'
 def get_the_values(groceries)
   #code your solution here!
   groceries.values 
-  groceries.values.flatten options_from_collection_for_select
+  groceries.values.flatten 
 end
